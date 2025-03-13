@@ -39,7 +39,7 @@ A implementação da dinâmica fica a critério do desenvolvedor, garantindo uma
 1️⃣ Clone este repositório:  
 ```bash
 git clone https://github.com/seu-usuario/desafio-xlow-vitrine.git
-
+```
 2️⃣ Abra o arquivo index.html no navegador ou utilize uma extensão como Live Server no VS Code para visualizar as alterações em tempo real.
 
 📌 Observações
