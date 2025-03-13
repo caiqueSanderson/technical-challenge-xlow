@@ -26,14 +26,18 @@ A implementação da dinâmica fica a critério do desenvolvedor, garantindo uma
 - **JavaScript (ES6+)**  
 
 ## 📂 Estrutura do projeto  
-📁 desafio-vitrine 
-┣ 📂 assets/ # Imagens, ícones, estilos extras 
-┣ 📂 js/ # Scripts principais 
-┣ 📂 css/ # Arquivos de estilo 
-┣ 📜 index.html # Página principal 
-┣ 📜 README.md # Documentação do projeto 
-┗ 📜 .gitignore # Arquivos ignorados no repositório
-
+```
+📁 root
+┣ 📜 index.html    # Página principal
+┣ 📜 README.md     # Documentação do projeto
+┣ 📜 LICENSE       # Licença do projeto
+┣ 📜 package.json  # Configuração do projeto
+┣ 📂 src/          # Diretório principal do código-fonte
+  ┣ 📂 js/        # Scripts principais
+    ┣ 📜 index.html 
+  ┣ 📂 css/       # Arquivos de estilo
+    ┣ 📜 index.html 
+```
 ## 📜 Como executar o projeto  
 
 1️⃣ Clone este repositório:  
